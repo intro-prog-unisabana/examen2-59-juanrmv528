@@ -10,7 +10,7 @@ def main():
         
         n = int(archivo.readline())
 
-        monitor = temp_monitor.init()
+        monitor = temp_monitor.init(n)
         
         
         for _ in range(n):
