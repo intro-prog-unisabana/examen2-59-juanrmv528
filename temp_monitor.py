@@ -20,7 +20,7 @@ def add_reading(monitor, temp):
     Agrega una nueva lectura con la temperatura especificada.
     Retorna el diccionario modificado.
     """
-    # TODO: Implementar
+    # TODO: Implementa
     pass
 
 
