@@ -11,7 +11,7 @@
 
 
 def init(max_readings):
-    # Crea un diccionario con las claves requeridas: max, readings y total [cite: 34, 35, 36]7
+    
     monitor = {
         'max': max_readings,
         'readings': [],
