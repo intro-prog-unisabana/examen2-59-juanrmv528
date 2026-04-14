@@ -21,6 +21,8 @@ def build_monitor(readings max_readings=None )
 @.mark.points (3)
 
 def add_reading(monitor, temp)
+    
+    CARTAGENA_DAY = [ 12, 26, 27.5, 29.0 30.5 31.5 32.0 31.0 30.0 29.0 ]
 
 
    
