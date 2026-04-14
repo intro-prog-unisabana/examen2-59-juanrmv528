@@ -2,7 +2,7 @@ import temp_monitor
 
 def main():
 
-    nombre_archivo = input("Nombre del archivo: "r)
+    nombre_archivo = input("Nombre del archivo: ")
     
     try:
 
