@@ -20,6 +20,8 @@ def build_monitor(readings max_readings=None )
 
 @.mark.points (3)
 
+def add_reading(monitor, temp)
+
 
    
  
