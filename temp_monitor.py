@@ -6,6 +6,25 @@
 #   - 'readings': lista con las temperaturas de cada lectura (list)
 #   - 'total':    suma total de todas las temperaturas (float)
 
+def build_monitor(readings max_readings=None )
+    if max_readings is None:
+        max_readings = len(readings)
+    monitor = temp_monitor.init (max_readings)
+    for value in readings:
+    temp_monitor.add_reading (monitor,value)
+    return
+
+
+    BOGOTA_DAY = [12, 8.0 9.5 11 13.5 15.0 17.5 19.0 20.0 ]
+
+
+@.mark.points (3)
+
+
+   
+ 
+    
+
 
 def init(max_readings):
     """
